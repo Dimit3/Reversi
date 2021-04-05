@@ -1,6 +1,7 @@
 Jogo do Reversi
 
-Projeto final da disciplina de laboratório de algoritmia 1
+Projeto final da disciplina de laboratórios de algoritmia 1,
+no âmbito do 1º Ano da Licenciatura em Ciências da Computação
 
 Implementação do jogo do Reversi para 2 jogadores assim como 1 jogador contra bot implementado pela estratégia Minimax
 
