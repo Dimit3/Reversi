@@ -1,3 +1,0 @@
-C:/Users/Dimitri/Desktop/LA1_PL2_9/cmake-build-debug/CMakeFiles/PROJETOOO.dir
-C:/Users/Dimitri/Desktop/LA1_PL2_9/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dimitri/Desktop/LA1_PL2_9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
