@@ -1,5 +1,5 @@
 # Jogo do Reversi
-----
+
 ## Projeto final de laboratórios de algoritmia 1, no âmbito do 1º Ano da Licenciatura em Ciências da Computação
 
 Implementação do jogo do Reversi para 2 jogadores,
